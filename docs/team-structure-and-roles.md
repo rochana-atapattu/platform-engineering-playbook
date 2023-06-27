@@ -26,16 +26,16 @@
    - Provide feedback on the usability and effectiveness of the platform and IDP.
 
 ## Roles and Responsibilities:
-- Platform Architect: Responsible for designing and architecting the internal developer platform. They work closely with stakeholders, application teams, and infrastructure teams to define the overall platform architecture, standards, and best practices.
+- Platform Architect (sig-arch): Responsible for designing and architecting the internal developer platform. They work closely with stakeholders, application teams, and infrastructure teams to define the overall platform architecture, standards, and best practices.
 
-- Tooling Specialist: Focuses on the evaluation, implementation, and management of various tools and technologies used in the platform. They stay updated with the latest tools and assess their suitability for the organization's needs. They ensure smooth integration, configuration, and maintenance of these tools.
+- Tooling Specialist (sig-tools): Focuses on the evaluation, implementation, and management of various tools and technologies used in the platform. They stay updated with the latest tools and assess their suitability for the organization's needs. They ensure smooth integration, configuration, and maintenance of these tools.
 
-- Infrastructure Automation Engineer: Handles the automation of infrastructure provisioning, configuration, and management using infrastructure-as-code tools like Terraform, Ansible, or Pulumi. They work closely with the platform architect and application teams to define and implement infrastructure templates and deployment processes.
+- Infrastructure Automation Engineer (sig-infra-auto): Handles the automation of infrastructure provisioning, configuration, and management using infrastructure-as-code tools like Terraform, Ansible, or Pulumi. They work closely with the platform architect and application teams to define and implement infrastructure templates and deployment processes.
 
-- CI/CD Specialist: Manages and improves the continuous integration and continuous delivery (CI/CD) pipeline. They configure, maintain, and enhance the CI/CD tools like Jenkins, GitLab CI/CD, or CircleCI. They collaborate with application teams to optimize the pipeline, enable automated testing, and streamline the release process.
+- CI/CD Specialist (sig-ci-cd): Manages and improves the continuous integration and continuous delivery (CI/CD) pipeline. They configure, maintain, and enhance the CI/CD tools like Jenkins, GitLab CI/CD, or CircleCI. They collaborate with application teams to optimize the pipeline, enable automated testing, and streamline the release process.
 
-- Security and Compliance Engineer: Focuses on the security and compliance aspects of the platform. They implement security measures, such as access controls, encryption, and vulnerability scanning. They ensure compliance with relevant regulations and industry standards. They work closely with application teams to integrate security practices into the CI/CD pipeline.
+- Security and Compliance Engineer (sig-sec): Focuses on the security and compliance aspects of the platform. They implement security measures, such as access controls, encryption, and vulnerability scanning. They ensure compliance with relevant regulations and industry standards. They work closely with application teams to integrate security practices into the CI/CD pipeline.
 
-- Cloud Specialist: Manages the organization's cloud infrastructure and services. They have expertise in one or more cloud platforms like AWS, Azure, or Google Cloud. They optimize cloud resource allocation, monitor usage, and ensure cost efficiency. They collaborate with application teams to provide guidance on cloud-related matters.
+- Cloud Specialist (sig-cloud): Manages the organization's cloud infrastructure and services. They have expertise in one or more cloud platforms like AWS, Azure, or Google Cloud. They optimize cloud resource allocation, monitor usage, and ensure cost efficiency. They collaborate with application teams to provide guidance on cloud-related matters.
 
-- Observability Engineer: Sets up and maintains trace, monitoring and logging tools for the platform. They implement robust monitoring solutions, such as Prometheus, Grafana, ELK stack (Elasticsearch, Logstash, Kibana), or Splunk. They ensure the availability, performance, and reliability of the platform and its components.
+- Observability Engineer (sig-observe): Sets up and maintains trace, monitoring and logging tools for the platform. They implement robust monitoring solutions, such as Prometheus, Grafana, ELK stack (Elasticsearch, Logstash, Kibana), or Splunk. They ensure the availability, performance, and reliability of the platform and its components.
