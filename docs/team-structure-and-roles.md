@@ -27,6 +27,8 @@
 
 ## Roles and Responsibilities:
 
+These roles and responsibilities form the foundation of the Platform Engineering Team, each focusing on specific aspects necessary for building and maintaining a robust and efficient platform.
+
 - [Platform Architect](./sig-arch): Responsible for designing and architecting the internal developer platform. They work closely with stakeholders, application teams, and infrastructure teams to define the overall platform architecture, standards, and best practices.
 
 - [Tooling Specialist](./sig-tools): Focuses on the evaluation, implementation, and management of various tools and technologies used in the platform. They stay updated with the latest tools and assess their suitability for the organization's needs. They ensure smooth integration, configuration, and maintenance of these tools.
