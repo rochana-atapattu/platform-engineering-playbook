@@ -1,5 +1,15 @@
 **Milestone 1: Assess Current Project Environments and IaC Implementation**
 
+```mermaid
+timeline
+  title Milestone 1: Assess Current Project Environments and IaC Implementation
+  section Activities
+    Evaluate : Evaluate the existing project environments and their infrastructure-as-code (IaC) implementations.
+    Identify : Identify gaps, inconsistencies, or areas where improvements are needed in terms of IaC practices.
+    Conduct : Conduct a knowledge-sharing session among the projects to share best practices and identify common challenges.
+
+```
+
 - Evaluate the existing project environments and their infrastructure-as-code (IaC) implementations.
 - Identify gaps, inconsistencies, or areas where improvements are needed in terms of IaC practices.
 - Conduct a knowledge-sharing session among the projects to share best practices and identify common challenges.
