@@ -8,20 +8,10 @@ The Platform Engineering Initiatives aim to enhance development processes, infra
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](./LICENSE)
 - [Contact](#contact)
-
-## Installation
-
-To get started with the platform engineering initiatives, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-organization/platform-engineering.git`
-2. Install the required dependencies: [List any dependencies or tools required for the platform engineering initiatives]
-3. Configure the environment settings: [Provide instructions on how to set up the necessary environment variables or configuration files]
-4. Run the setup script: [Specify any setup scripts or commands to initialize the platform engineering environment]
 
 ## Usage
 
