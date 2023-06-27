@@ -1,14 +1,10 @@
 **Milestone 1: Assess Current Project Environments and IaC Implementation**
 
-![Alt text](./milestone-one.png "a title")
-
 - Evaluate the existing project environments and their infrastructure-as-code (IaC) implementations.
 - Identify gaps, inconsistencies, or areas where improvements are needed in terms of IaC practices.
 - Conduct a knowledge-sharing session among the projects to share best practices and identify common challenges.
 
 **Milestone 2: Define Standardized IaC Practices and Tooling**
-
-![Alt text](./milestone-two.png "a title")
 
 - Collaboratively define standardized IaC practices, including naming conventions, directory structure, module organization, and version control workflows.
 - Select and implement a centralized version control system, such as Git, to manage the IaC codebase across projects.
