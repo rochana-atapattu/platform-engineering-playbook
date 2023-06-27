@@ -34,4 +34,4 @@
 - Regularly review and iterate on the platform engineering practices, tools, and processes based on feedback and evolving project requirements.
 - Foster a culture of continuous improvement by encouraging all team members to contribute ideas and suggestions for enhancing the platform.
 
-Remember to adapt these milestones to fit the specific needs and challenges of your organization. Assign responsible individuals or teams for each milestone and establish a timeline with achievable goals. Regularly track progress, hold discussions, and adjust the plan as needed to ensure successful implementation of the platform engineering initiatives.
+Remember to adapt these milestones to fit the specific needs and challenges of your SIG. Assign responsible individuals or teams for each milestone and establish a timeline with achievable goals. Regularly track progress, hold discussions, and adjust the plan as needed to ensure successful implementation of the platform engineering initiatives.
