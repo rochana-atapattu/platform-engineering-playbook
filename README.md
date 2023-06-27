@@ -24,7 +24,8 @@ The platform engineering initiatives offer the following key features and benefi
 
 To leverage the platform engineering initiatives in your projects, follow these steps:
 
-1. Review the documentation: [Link to the documentation](./docs/) for detailed information and usage guidelines.
+1. :point_right: Important Step: [Take a look at the Documentation](./docs/)
+For detailed information and usage guidelines, make sure to review the documentation. This is a crucial step to effectively leverage the platform engineering initiatives in your projects.
 2. Follow the platform engineering guidelines: [Specify any guidelines or coding conventions to follow]
 3. Integrate the platform components: [Provide instructions on integrating the shared services, CI/CD pipelines, and other platform components into your projects]
 4. Contribute and provide feedback: [Encourage developers to contribute back to the platform engineering initiatives, report issues, and share their feedback]
