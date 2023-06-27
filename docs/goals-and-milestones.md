@@ -1,6 +1,6 @@
 **Milestone 1: Assess Current Project Environments and IaC Implementation**
 
-```mermaid
+```mermaid!
 timeline
   title Milestone 1: Assess Current Project Environments and IaC Implementation
   section Activities
