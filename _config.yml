@@ -1,6 +1,7 @@
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
+  - jemoji
 relative_links:
   enabled: true
   collections: true
