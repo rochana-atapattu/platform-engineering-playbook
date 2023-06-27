@@ -38,4 +38,4 @@
 
 - Cloud Specialist: Manages the organization's cloud infrastructure and services. They have expertise in one or more cloud platforms like AWS, Azure, or Google Cloud. They optimize cloud resource allocation, monitor usage, and ensure cost efficiency. They collaborate with application teams to provide guidance on cloud-related matters.
 
-- Monitoring and Logging Engineer: Sets up and maintains monitoring and logging tools for the platform. They implement robust monitoring solutions, such as Prometheus, Grafana, ELK stack (Elasticsearch, Logstash, Kibana), or Splunk. They ensure the availability, performance, and reliability of the platform and its components.
+- Observability Engineer: Sets up and maintains trace, monitoring and logging tools for the platform. They implement robust monitoring solutions, such as Prometheus, Grafana, ELK stack (Elasticsearch, Logstash, Kibana), or Splunk. They ensure the availability, performance, and reliability of the platform and its components.
