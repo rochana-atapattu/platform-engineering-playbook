@@ -5,7 +5,7 @@ The Introduction to Platform Engineering document provides an overview of the pl
 ### Table of Contents
 
 - [Introduction](./introduction.md)
-- [Team Structure and Roles](./team-structure-and-roles)
+- [Team Structure and Roles](./team-structure-and-roles.md)
 - [Goals and Milestones](./goals-and-milestones.md)
 - [Work Ethics and Collaboration](./work-ethics-and-collaboration.md)
 - [Guidelines and Best Practices](./guidelines-and-best-practices.md)
