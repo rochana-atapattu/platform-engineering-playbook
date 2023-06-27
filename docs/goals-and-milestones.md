@@ -8,6 +8,8 @@
 
 **Milestone 2: Define Standardized IaC Practices and Tooling**
 
+![Alt text](./milestone-two.png "a title")
+
 - Collaboratively define standardized IaC practices, including naming conventions, directory structure, module organization, and version control workflows.
 - Select and implement a centralized version control system, such as Git, to manage the IaC codebase across projects.
 - Identify and select suitable tools for managing and deploying infrastructure, such as Terraform, across all projects.
