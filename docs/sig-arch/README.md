@@ -39,9 +39,7 @@ To excel in the Architecture role as a Platform Engineer, the following skills a
 - Strong understanding of software architecture principles, design patterns, and best practices.
 - Proficiency in designing scalable and distributed systems.
 - Experience with cloud platforms (e.g., GCP, AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes).
-- Knowledge of infrastructure
-
--as-code tools (e.g., Terraform) and configuration management tools (e.g., Ansible, Puppet).
+- Knowledge of infrastructure-as-code tools (e.g., Terraform) and configuration management tools (e.g., Ansible, Puppet).
 - Familiarity with microservices architecture, API design, and event-driven architectures.
 - Understanding of security principles and practices, including authentication, authorization, and encryption.
 - Excellent communication and collaboration skills to effectively work with cross-functional teams and stakeholders.
