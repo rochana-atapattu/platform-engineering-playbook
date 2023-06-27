@@ -19,7 +19,7 @@ The platform engineering initiatives offer the following key features and benefi
 
 - Infrastructure as Code (IaC): Manage and provision infrastructure using tools like Terraform, enabling consistent and reproducible deployments.
 - Continuous Integration and Continuous Delivery (CI/CD): Implement automated pipelines using GitHub Actions for building, testing, and deploying applications and infrastructure.
-- Shared Services and Internal Developer Platform (IDP): Build shared service offerings, such as authentication, logging, monitoring, and database management, using technologies like Kubernetes, Istio, and service mesh.
+- Shared Services and Internal Developer Platform (IDP): Build shared service offerings, such as terraform modules, authentication, logging, monitoring, and database management, using technologies like Kubernetes, Istio, and service mesh.
 - Monitoring and Logging: Utilize tools like Prometheus, Grafana, and the ELK stack (Elasticsearch, Logstash, Kibana) for monitoring the platform's performance, availability, and logs.
 
 To leverage the platform engineering initiatives in your projects, follow these steps:
