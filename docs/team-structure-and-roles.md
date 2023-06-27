@@ -1,5 +1,7 @@
 # Optimizing Efficiency and Collaboration: Harnessing the Power of Platform Engineering
 
+
+
 ## Team Structure:
 
 1. Platform Engineering Team Lead:
