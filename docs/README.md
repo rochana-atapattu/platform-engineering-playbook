@@ -23,7 +23,7 @@ In the Platform Engineering Approach section, we discussed the organization's ap
 
 ## Team Structure and Roles
 
-The Team Structure and Roles section outlines the recommended team structure for platform engineering initiatives. It includes roles such as Platform Architect, Tooling Specialist, Infrastructure Automation Engineer, CI/CD Specialist, Security and Compliance Engineer, Cloud Specialist, and Monitoring and Logging Engineer. Each role has defined responsibilities to ensure a collaborative and efficient platform engineering workflow.
+The Team Structure and Roles section outlines the recommended team structure for platform engineering initiatives. It includes roles such as Platform Architect, Tooling Specialist, Infrastructure Automation Engineer, CI/CD Specialist, Security and Compliance Engineer, Cloud Specialist, and Observatibily Engineer. Each role has defined responsibilities to ensure a collaborative and efficient platform engineering workflow.
 
 ## Goals and Milestones
 
