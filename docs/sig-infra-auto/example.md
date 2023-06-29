@@ -1,0 +1,23 @@
+# Example
+
+As an Infrastructure Automation Engineer within the Platform Engineering Team, your role is to drive the automation of infrastructure provisioning, configuration, and management using infrastructure-as-code (IaC) tools such as Terraform, Ansible, or Pulumi:
+
+As an Infrastructure Automation Engineer, you play a crucial role in establishing a robust and scalable infrastructure-as-code framework to support project teams in their development and deployment processes. Here's an example scenario:
+
+You collaborate closely with the Platform Architect, Project Managers, and other stakeholders to define the infrastructure requirements and design patterns for different project types. You leverage your expertise in infrastructure automation tools and best practices to develop reusable infrastructure templates and modules that can be easily provisioned and managed across projects.
+
+1. Infrastructure Provisioning: You design and implement a standardized infrastructure provisioning process using tools like Terraform. You define infrastructure templates that capture the desired state of the infrastructure components, such as virtual machines, networks, storage, and security groups. By leveraging version control systems like Git, you ensure that infrastructure changes are tracked, auditable, and reproducible.
+
+2. Configuration Management: You collaborate with project teams to define configuration management strategies using tools like Ansible or Puppet. You develop playbooks or manifests that automate the configuration of software, middleware, and dependencies on the provisioned infrastructure. This ensures consistency and repeatability across environments and simplifies the deployment and management of applications.
+
+3. Continuous Integration and Delivery (CI/CD): You work closely with the CI/CD Specialist to integrate infrastructure automation into the CI/CD pipeline. You enable seamless integration between infrastructure provisioning, application deployment, and testing processes. This involves leveraging tools like Jenkins, GitLab CI/CD, or CircleCI to automate the deployment of infrastructure changes and validate their correctness before promoting them to production.
+
+4. Infrastructure as Code Best Practices: You champion the adoption of infrastructure as code best practices within the Platform Engineering Team and project teams. You ensure that infrastructure code follows established conventions, is properly modularized, and adheres to security and compliance requirements. You promote the use of IaC testing frameworks to validate infrastructure changes and perform continuous integration testing on infrastructure code.
+
+5. Infrastructure Scaling and Optimization: You collaborate with project teams to identify opportunities for infrastructure scaling and optimization. You help define autoscaling policies, implement dynamic resource allocation strategies, and provide guidance on optimizing infrastructure costs and performance. By leveraging cloud-native technologies and infrastructure automation, you enable project teams to achieve efficient utilization of resources while ensuring scalability and resilience.
+
+6. Infrastructure Auditing and Compliance: You work closely with the Security and Compliance Engineer to ensure that infrastructure deployments adhere to security and compliance standards. You implement security controls, such as access controls, encryption, and vulnerability scanning, within the infrastructure provisioning process. You collaborate with project teams to address security and compliance findings and ensure that the infrastructure remains secure and compliant throughout its lifecycle.
+
+7. Documentation and Knowledge Sharing: You contribute to the documentation of infrastructure automation processes, best practices, and guidelines. You facilitate knowledge sharing sessions and workshops to educate project teams on infrastructure automation concepts and empower them to self-serve their infrastructure needs. You actively participate in cross-team discussions and forums to share experiences, troubleshoot challenges, and collaborate on improving the infrastructure automation capabilities of the platform.
+
+By taking on the responsibilities of an Infrastructure Automation Engineer, you empower project teams to rapidly and reliably provision infrastructure, reduce manual efforts, improve consistency, and enhance the overall efficiency of the platform. Your expertise in infrastructure automation ensures that project teams can focus on delivering value to end-users while benefiting from a scalable, secure, and automated infrastructure foundation.

@@ -1,0 +1,17 @@
+# Example
+
+As a Tool Specialist within the Platform Engineering Team, your role is to focus on the evaluation, implementation, and management of various tools and technologies used in the platform:
+
+As a Tool Specialist, you are responsible for ensuring that the platform has the right set of tools and technologies to support the development, deployment, and maintenance of applications. Here's an example scenario:
+
+1. Tool Evaluation and Selection: You stay up-to-date with the latest tools and technologies relevant to the platform's needs. You conduct evaluations to assess their suitability, compatibility, and alignment with the platform's goals and requirements. This includes tools for infrastructure provisioning, configuration management, CI/CD, monitoring, logging, security, and more. You collaborate with the Platform Architect, DevOps Engineers, and other stakeholders to make informed decisions on tool selection.
+
+2. Tool Implementation and Integration: Once a tool is selected, you lead the implementation and integration efforts. This involves setting up and configuring the tool, ensuring its compatibility with the existing infrastructure and workflows, and establishing seamless integration with other tools in the platform ecosystem. You work closely with the Infrastructure Automation Engineer, CI/CD Specialist, and other relevant roles to ensure smooth tool deployment and integration within the platform.
+
+3. Tool Management and Maintenance: You are responsible for managing the lifecycle of the tools used in the platform. This includes version upgrades, patching, bug fixing, and ensuring the overall health and performance of the tools. You actively monitor the tools, implement best practices for their usage, and address any issues or challenges that arise. You collaborate with the DevOps Engineers and other teams to gather feedback, identify improvement opportunities, and implement enhancements to optimize the tooling ecosystem.
+
+4. Documentation and Training: You contribute to the documentation of tools, their configurations, and usage guidelines. You ensure that the documentation is up-to-date, easily accessible, and comprehensive. Additionally, you organize training programs and workshops to educate the platform team and application developers on the proper usage and best practices of the tools. By providing clear documentation and training resources, you empower team members to effectively leverage the tools and enhance their productivity.
+
+5. Tool Ecosystem Enhancement: As a Tool Specialist, you continuously explore opportunities to enhance the platform's tooling ecosystem. This may involve researching and evaluating new tools, identifying gaps or inefficiencies in the existing tooling landscape, and proposing improvements or new integrations. You collaborate with the Platform Architect, DevOps Engineers, and other stakeholders to prioritize and implement these enhancements, ensuring that the tooling ecosystem remains robust, efficient, and aligned with the evolving needs of the platform.
+
+By assuming the responsibilities of a Tool Specialist, you ensure that the platform has the right tools and technologies in place to enable seamless and efficient development, deployment, and maintenance of applications. Your expertise in evaluating, implementing, and managing tools empowers the platform team and application developers to work effectively, streamline their workflows, and achieve their goals.

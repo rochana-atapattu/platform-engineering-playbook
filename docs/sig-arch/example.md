@@ -1,0 +1,17 @@
+# Example
+
+As an Architecture Specialist within the Platform Engineering Team, your role is to design and architect the internal developer platform:
+
+As an Architecture Specialist, you play a critical role in defining the overall architecture, standards, and best practices of the platform. Here's an example scenario:
+
+1. Platform Architecture Design: You collaborate with stakeholders, application teams, and infrastructure teams to define the architecture of the internal developer platform. This involves understanding the requirements and goals of the platform, identifying the key components and services, and designing the overall structure and interaction patterns. You ensure that the platform architecture is scalable, flexible, and aligned with industry best practices.
+
+2. Standards and Best Practices: As an Architecture Specialist, you establish standards and best practices for the platform. This includes defining coding conventions, naming conventions, directory structures, and module organization guidelines. You work closely with the Tool Specialist and Infrastructure Automation Engineer to ensure that the platform follows consistent and efficient practices across projects. Your expertise in architectural patterns and industry standards contribute to the maintainability and extensibility of the platform.
+
+3. Solution Design and Guidance: You provide solution design guidance to the application teams. This involves reviewing their architectural proposals, identifying potential issues or improvements, and guiding them towards making informed design decisions. You collaborate with the Security and Compliance Engineer to ensure that the platform meets the required security and compliance standards. Your role is to ensure that the application teams have a clear understanding of the platform architecture and can effectively leverage the provided services and components.
+
+4. Technology Evaluation and Adoption: As an Architecture Specialist, you stay up-to-date with emerging technologies, frameworks, and tools relevant to the platform. You evaluate their suitability and potential impact on the platform's architecture. You collaborate with the Tool Specialist and Cloud Specialist to assess new tools and technologies and determine their integration with the platform. Your expertise helps in making informed technology decisions and driving innovation within the platform.
+
+5. Performance and Scalability: You analyze and optimize the performance and scalability aspects of the platform. This includes conducting performance testing, identifying potential bottlenecks, and proposing architectural enhancements to ensure optimal performance and scalability. You work closely with the Monitoring and Logging Engineer to establish monitoring mechanisms that capture relevant performance metrics. Your focus on performance and scalability contributes to the platform's ability to handle increasing workloads and provide a responsive experience to users.
+
+By assuming the responsibilities of an Architecture Specialist, you ensure that the internal developer platform has a well-defined and scalable architecture. Your expertise in platform design, standards, and best practices sets the foundation for building robust and efficient applications. By providing solution design guidance and staying updated with emerging technologies, you enable the application teams to leverage the platform effectively. Your focus on performance and scalability ensures that the platform can meet the demands of the growing organization.
