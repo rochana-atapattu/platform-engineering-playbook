@@ -54,3 +54,5 @@ As a Cloud Specialist Engineer, you will play a crucial role in designing, imple
 - Excellent communication and collaboration skills to work effectively with cross-functional teams and stakeholders.
 
 By following this guide and leveraging your expertise as a Cloud Specialist Engineer, you will contribute to the efficient and scalable operation of our internal developer platform. Your efforts will help optimize cloud resource utilization, ensure cost efficiency, and provide guidance to application teams on cloud-related matters.
+
+## [Example](./example.md)

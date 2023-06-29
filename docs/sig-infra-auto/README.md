@@ -45,3 +45,6 @@ To excel in the Infrastructure Automation Engineer role as a Platform Engineer, 
 - Knowledge of networking principles, security best practices, and compliance standards related to infrastructure.
 - Strong problem-solving and troubleshooting skills for infrastructure-related issues.
 - Collaboration and communication skills to work effectively with cross-functional teams.
+
+## [Example](./example.md)
+

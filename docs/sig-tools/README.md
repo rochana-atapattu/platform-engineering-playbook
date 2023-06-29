@@ -38,3 +38,5 @@ To excel in the Tool Specialist role as a Platform Engineer, the following skill
 
 - Strong understanding of different tools and technologies commonly used in software development, such as CI/CD pipelines, version control systems, testing frameworks, containerization tools, and monitoring solutions.
 - Proficiency in evaluating tools based on functional requirements, compatibility, scalability,
+
+## [Example](./example.md)

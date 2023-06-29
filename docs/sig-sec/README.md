@@ -56,3 +56,5 @@ As a Security and Compliance Engineer, you will play a crucial role in designing
 - Excellent communication and collaboration skills to work effectively with cross-functional teams and stakeholders.
 
 By following this guide and leveraging your expertise, you will contribute to the secure and compliant operation of our internal developer platform. Your efforts will help protect sensitive information, maintain regulatory compliance, and foster a secure environment for our applications and infrastructure.
+
+## [Example](./example.md)

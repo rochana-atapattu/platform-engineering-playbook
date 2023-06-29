@@ -47,3 +47,5 @@ To excel in the Architecture role as a Platform Engineer, the following skills a
 ## Conclusion
 
 As a Platform Engineer in the Architecture role, you play a crucial part in shaping the technical foundation of our internal developer platform. Your expertise in designing scalable, secure, and reliable architectures will enable application teams to build and deploy their software with confidence. By following the responsibilities and focusing on the key areas outlined in this guide, you will contribute to the success of our platform and empower our organization to achieve its goals.
+
+## [Example](./example.md)

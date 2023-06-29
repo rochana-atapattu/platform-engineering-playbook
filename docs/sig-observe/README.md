@@ -50,3 +50,5 @@ As a Monitoring and Logging Engineer, you will play a crucial role in designing,
 - Excellent communication and collaboration skills to work effectively with cross-functional teams and stakeholders.
 
 By following this guide and leveraging your expertise as a Monitoring and Logging Engineer, you will contribute to the observability and proactive management of our internal developer platform. Your efforts will ensure the platform's reliability, enable timely issue detection and resolution, and provide valuable insights for continuous improvement.
+
+## [Example](./example.md)

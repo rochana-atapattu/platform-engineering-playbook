@@ -52,3 +52,5 @@ aboration and Communication**: Foster effective collaboration with application t
 - Effective communication and collaboration skills to work in a cross-functional team environment.
 
 By following this guide and leveraging your expertise, you will contribute to the successful implementation and continuous improvement of the CI/CD pipeline within our platform engineering team. Your efforts will enable efficient software delivery, faster feedback loops, and improved overall quality.
+
+## [Example](./example.md)
